@@ -1,6 +1,4 @@
-/*
- * Copyright (c) 2019.  Alper Güngör, All rights reserved.
- */
+
 
 package guru.springframework.spring5webapp.model;
 
